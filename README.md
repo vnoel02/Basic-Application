@@ -1,2 +1,2 @@
-Victor Noel - 24085125
-Github Username: vnoel02
+Basic Android Studio application created by following the "Build Your First Android App in Java" codelab. 
+Link: https://developer.android.com/codelabs/build-your-first-android-app#0 
